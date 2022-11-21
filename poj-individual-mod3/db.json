@@ -1,0 +1,98 @@
+{
+    "Romance": [
+        {
+            "id": 1,
+            "nome": "Crepúsculo",
+            "autor": "Stephenie Meyer",
+            "editora": "Intriseca",
+            "classificacao etaria": 13,
+            "tema": "Crepúsculo é uma história sobre vampiros",
+            "quantidade": 22,
+            "preco": 70.90
+        },
+        {
+            "id": 2,
+            "nome": "Lua Nova",
+            "autor": "Stephenie Meyer",
+            "editora": "Intriseca",
+            "classificacao etaria": 13,
+            "tema": "Lua Nova é um romance escrito por Stephenie Meyer para jovens adultos sobre vampiros",
+            "quantidade": 15,
+            "preco": 72.90
+        },
+        {
+            "id": 3,
+            "nome": "Amanhecer",
+            "autor": "Stephenie Meyer",
+            "editora": "Intriseca",
+            "classificacao etaria": 13,
+            "tema": "Amanhecer é o quarto e último livro da série Crepúsculo",
+            "quantidade": 12,
+            "preco": 78.90
+        }
+    ],
+    "Terror": [
+        {
+            "id": 1,
+            "nome": "It- a coisa",
+            "autor": "Stephen King",
+            "editora": "Suma",
+            "classificacao etaria": 16,
+            "tema": "história segue as experiências de sete crianças, que são aterrorizadas por uma entidade maligna",
+            "quantidade": 12,
+            "preco": 41.90
+        },
+        {
+            "id": 2,
+            "nome": "Drácula",
+            "autor": "Bram Stoker, Frank McGuinness, Kottayam Pushpanath",
+            "editora": "Penguin-Companhia",
+            "classificacao etaria": 14,
+            "tema": "Drácula é um romance de terror gótico",
+            "quantidade": 15,
+            "preco": 42.30
+        },
+        {
+            "id": 3,
+            "nome": "O livro maldito",
+            "autor": " David Herick, Van R Souza",
+            "editora": " Planeta Minotauro",
+            "classificacao etaria": 12,
+            "tema": "São mais de 70 histórias curtas de terror que vão do sobrenatural até coisas terríveis que os seres humanos podem fazer",
+            "quantidade": 30,
+            "preco": 48.90
+        }
+    ],
+    "Fantasia": [
+        {
+            "id": 1,
+            "nome": "O Senhor dos Aneis",
+            "autor": "J. R. R. Tolkien",
+            "editora": "Europa América",
+            "classificacao etaria": 12,
+            "tema": "livro de alta fantasia",
+            "quantidade": 25,
+            "preco": 42.90
+        },
+        {
+            "id": 2,
+            "nome": "O Feiticeiro de Terramar",
+            "autor": "Ursula K. Le Guin",
+            "editora": "Arqueiro",
+            "classificacao etaria": "Livre",
+            "tema": "é um romance de fantasia",
+            "quantidade": 32,
+            "preco": 35.70
+        },
+        {
+            "id": 3,
+            "nome": "Eragon",
+            "autor": "Christopher Paolini",
+            "editora": "Rocco",
+            "classificacao etaria": "Livre",
+            "tema": "Ele é o único Cavaleiro conhecido na Alagaësia além do Rei Galbatorix, que, com a ajuda dos agora mortos Renegados, um grupo de Cavaleiros desonestos, matou todos os outros Cavaleiros um século atrás",
+            "quantidade": 28,
+            "preco": 36.89
+        }
+    ]
+}
