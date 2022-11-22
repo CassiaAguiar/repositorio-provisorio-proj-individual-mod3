@@ -1,98 +1,153 @@
 {
     "Romance": [
         {
-            "id": 1,
-            "nome": "Crepúsculo",
-            "autor": "Stephenie Meyer",
-            "editora": "Intriseca",
-            "classificacao etaria": 13,
-            "tema": "Crepúsculo é uma história sobre vampiros",
-            "quantidade": 22,
-            "preco": 70.90
+            "nome": "Onde mora o coração",
+            "direcao": "Matt Williams",
+            "roteiro": "Lowell Ganz, Babaloo Mandel",
+            "elenco": "Natalie Portman, Ashley Judd, Stockard Channing",
+            "classificacao etaria": 12,
+            "sinopse": "Novalee Nation, do Tennessee, é deixada descalça e grávida em um estacionamento do Wal-Mart pelo cruel namorado",
+            "ano de lancamento": 2000
+           
         },
         {
-            "id": 2,
-            "nome": "Lua Nova",
-            "autor": "Stephenie Meyer",
-            "editora": "Intriseca",
-            "classificacao etaria": 13,
-            "tema": "Lua Nova é um romance escrito por Stephenie Meyer para jovens adultos sobre vampiros",
-            "quantidade": 15,
-            "preco": 72.90
+            
+            "nome": "Como perder um homem em 10 dias",
+            "direcao": "Donald Petrie",
+            "elenco": "Kate Hudson, Matthew McConaughey, Adam Goldberg",
+            "classificacao etaria": 12,
+            "sinopse": "Ben é um publicitário que aposta com o chefe que faz qualquer mulher se apaixonar por ele em dez dias.",
+            "ano de lancamento": 2003
         },
         {
-            "id": 3,
-            "nome": "Amanhecer",
-            "autor": "Stephenie Meyer",
-            "editora": "Intriseca",
-            "classificacao etaria": 13,
-            "tema": "Amanhecer é o quarto e último livro da série Crepúsculo",
-            "quantidade": 12,
-            "preco": 78.90
+            "nome": "Como eu era antes de você",
+            "direcao": "Thea Sharrock",
+            "roteiro": "Jojo Moyes, Jojo Moyes",
+            "elenco": "Emilia Clarke, Sam Claflin, Janet McTeer",
+            "classificacao etaria": 12,
+            "sinopse": "A peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Simplesmente acontece",
+            "direcao": "Christian Ditter",
+            "roteiro": "Cecelia Ahern, Juliette Towhidi",
+            "elenco": "Lily Collins, Sam Claflin, Christian Cooke",
+            "classificacao etaria": 14,
+            "sinopse": "Alex e Rosie são amigos inseparáveis que cresceram juntos em Londres, compartilhando entre si suas melhores experiências.",
+            "ano de lancamento": 2014
         }
     ],
-    "Terror": [
+    "Musical": [
         {
-            "id": 1,
-            "nome": "It- a coisa",
-            "autor": "Stephen King",
-            "editora": "Suma",
-            "classificacao etaria": 16,
-            "tema": "história segue as experiências de sete crianças, que são aterrorizadas por uma entidade maligna",
-            "quantidade": 12,
-            "preco": 41.90
+            "nome": "Mamma Mia!",
+            "direcao": "Phyllida Lloyd",
+            "elenco": "Meryl Streep, Amanda Seyfried, Pierce Brosnan",
+            "classificacao etaria": 10,
+            "sinopse": "Donna, a proprietária de um hotel nas ilhas gregas, está preparando o casamento de sua filha com a ajuda de duas amigas.",
+            "ano de lancamento": 2008
         },
         {
-            "id": 2,
-            "nome": "Drácula",
-            "autor": "Bram Stoker, Frank McGuinness, Kottayam Pushpanath",
-            "editora": "Penguin-Companhia",
-            "classificacao etaria": 14,
-            "tema": "Drácula é um romance de terror gótico",
-            "quantidade": 15,
-            "preco": 42.30
-        },
-        {
-            "id": 3,
-            "nome": "O livro maldito",
-            "autor": " David Herick, Van R Souza",
-            "editora": " Planeta Minotauro",
+            "nome": "Dreamgirls - Em busca de um sonho",
+            "direcao": "Bill Condon",
+            "roteiro": "Bill Condon",
+            "elenco": "Beyoncé Knowles-Carter, Jamie Foxx, Eddie Murphy, Jennifer Hudson",
             "classificacao etaria": 12,
-            "tema": "São mais de 70 histórias curtas de terror que vão do sobrenatural até coisas terríveis que os seres humanos podem fazer",
-            "quantidade": 30,
-            "preco": 48.90
+            "sinopse": "Effie White, Deena Jones e Lorrell Robinson moram em Chicago e formam um grupo musical, as Dreamettes.",
+            "ano de lancamento": 2006
+        },
+        {
+            "nome": "Sing - Quem canta seus males espanta",
+            "direcao": "Garth Jennings",
+            "roteiro": "Garth Jennings",
+            "elenco": "Matthew McConaughey, Mariana Ximenes, Reese Witherspoon",
+            "classificacao etaria": 0,
+            "sinopse": "Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "High School Musical",
+            "direcao": "Kenny Ortega",
+            "roteiro": "Peter Barsocchini",
+            "elenco": "Zac Efron, Vanessa Hudgens, Ashley Tisdale",
+            "classificacao etaria": 0,
+            "sinopse": "Estudantes conspiram contra uma estrela do basquete e uma tímida novata, para evitar que eles cantem em uma produção musical.",
+            "ano de lancamento": 2006
+        }
+    ],
+    "Suspense": [
+        {
+            "nome": "A garota no trem",
+            "direcao": "Tate Taylor",
+            "roteiro": "Erin Cressida Wilson, Paula Hawkins",
+            "elenco": "Emily Blunt, Rebecca Ferguson, Haley Bennett",
+            "classificacao etaria": 16,
+            "sinopse": "Arrasada por seu recente divórcio, Rachel vive fantasiando sobre um casal que mora em uma casa pela qual seu trem passa todos os dias.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Paranóia",
+            "direcao": "D.J. Caruso",
+            "roteiro": "Christopher Landon, Carl Ellsworth",
+            "elenco": "Shia LaBeouf, Carrie-Anne Moss, David Morse",
+            "classificacao etaria": 14,
+            "sinopse": "Desde da morte de seu pai, o jovem Kale anda bem triste e solitário. Agora em prisão domiciliar, ele passa boa parte do tempo observando o comportamento estranho de seus vizinhos.",
+            "ano de lancamento": 2007
+        },
+        {
+            "nome": "Corra",
+            "direcao": "Jordan Peele",
+            "roteiro": "Jordan Peele",
+            "elenco": "Daniel Kaluuya, Allison Williams, Catherine Keener",
+            "classificacao etaria": 14,
+            "sinopse": "Chris é um jovem fotógrafo negro que está prestes a conhecer os pais de Rose, sua namorada caucasiana.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "Bird Box",
+            "direcao": "Susanne Bier",
+            "roteiro": "Eric Heisserer",
+            "elenco": "Sandra Bullock, Trevante Rhodes, Sarah Paulson",
+            "classificacao etaria": 16,
+            "sinopse": "Entidades misteriosas invadem a Terra com sua terrível presença. Aqueles que as veem, se matam instantaneamente.",
+            "ano de lancamento": 2018
         }
     ],
     "Fantasia": [
         {
-            "id": 1,
-            "nome": "O Senhor dos Aneis",
-            "autor": "J. R. R. Tolkien",
-            "editora": "Europa América",
-            "classificacao etaria": 12,
-            "tema": "livro de alta fantasia",
-            "quantidade": 25,
-            "preco": 42.90
+            "nome": "Encantada",
+            "direcao": "Kevin Lima",
+            "elenco": "Amy Adams, Patrick Dempsey, James Marsden",
+            "classificacao etaria": 0,
+            "sinopse": "Expulsa por uma rainha malvada do seu próprio conto de fadas, a princesa Giselle vai morar em Manhattan, Nova York, onde música, mágica e finais felizes já não são tão fáceis de encontrar.",
+            "ano de lancamento": 2007
         },
         {
-            "id": 2,
-            "nome": "O Feiticeiro de Terramar",
-            "autor": "Ursula K. Le Guin",
-            "editora": "Arqueiro",
-            "classificacao etaria": "Livre",
-            "tema": "é um romance de fantasia",
-            "quantidade": 32,
-            "preco": 35.70
+            "nome": "A Bela e a Fera",
+            "direcao": "Bill Condon",
+            "roteiro": "Evan Spiliotopoulos, Stephen Chbosky",
+            "elenco": "Emma Watson, Dan Stevens, Luke Evans",
+            "classificacao etaria": 10,
+            "sinopse": "Bela, moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade dele.",
+            "ano de lancamento": 2017
         },
         {
-            "id": 3,
-            "nome": "Eragon",
-            "autor": "Christopher Paolini",
-            "editora": "Rocco",
-            "classificacao etaria": "Livre",
-            "tema": "Ele é o único Cavaleiro conhecido na Alagaësia além do Rei Galbatorix, que, com a ajuda dos agora mortos Renegados, um grupo de Cavaleiros desonestos, matou todos os outros Cavaleiros um século atrás",
-            "quantidade": 28,
-            "preco": 36.89
+            "nome": "Frozen - Uma Aventura Congelante",
+            "direcao": "Chris Buck, Jennifer Lee",
+            "roteiro": "Hans Christian Andersen, Jennifer Lee",
+            "elenco": "Kristen Bell, Idina Menzel, Jonathan Groff (II)",
+            "classificacao etaria": 0,
+            "sinopse": "Acompanhada por um vendedor de gelo, a jovem e destemida princesa Anna parte em uma jornada por perigosas montanhas de gelo na esperança de encontrar sua irmã, a rainha Elsa.",
+            "ano de lancamento": 2013
+        },
+        {
+            "nome": "Divertida Mente",
+            "direcao": "Pete Docter",
+            "roteiro": "Pete Docter, Pete Docter",
+            "elenco": "Miá Mello, Amy Poehler, Otaviano Costa",
+            "classificacao etaria": 0,
+            "sinopse": "Com a mudança para uma nova cidade, as emoções de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas.",
+            "ano de lancamento": 2015
         }
     ]
 }
