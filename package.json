@@ -1,0 +1,15 @@
+{
+  "name": "proj-individual-mod-3",
+  "version": "1.0.0",
+  "description": "executando o jsonServer",
+  "main": "src/index.js",
+  "scripts": {
+    "vai": "nodemon src/index.js"
+  },
+  "author": "Cássia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuidv4": "^6.2.13"
+  }
+}
