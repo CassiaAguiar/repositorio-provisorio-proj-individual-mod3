@@ -14,6 +14,7 @@
             
             "nome": "Como perder um homem em 10 dias",
             "direcao": "Donald Petrie",
+            "roteiro": "Donald Petrie, Bur Sters",
             "elenco": "Kate Hudson, Matthew McConaughey, Adam Goldberg",
             "classificacao": 12,
             "sinopse": "Ben é um publicitário que aposta com o chefe que faz qualquer mulher se apaixonar por ele em dez dias.",
@@ -42,6 +43,7 @@
         {
             "nome": "Mamma Mia!",
             "direcao": "Phyllida Lloyd",
+            "roteiro": "Phyllida Lloyd",
             "elenco": "Meryl Streep, Amanda Seyfried, Pierce Brosnan",
             "classificacao": 10,
             "sinopse": "Donna, a proprietária de um hotel nas ilhas gregas, está preparando o casamento de sua filha com a ajuda de duas amigas.",
@@ -117,6 +119,7 @@
         {
             "nome": "Encantada",
             "direcao": "Kevin Lima",
+            "roteiro": "Kevin Lima, Bill Kely",
             "elenco": "Amy Adams, Patrick Dempsey, James Marsden",
             "classificacao": "Livre",
             "sinopse": "Expulsa por uma rainha malvada do seu próprio conto de fadas, a princesa Giselle vai morar em Manhattan, Nova York, onde música, mágica e finais felizes já não são tão fáceis de encontrar.",
