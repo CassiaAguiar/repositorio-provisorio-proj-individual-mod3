@@ -1,0 +1,122 @@
+{
+    "filmes": [
+        {
+            "nome": "A Bela e a Fera",
+            "direcao": "Bill Condon",
+            "elenco": "Emma Watson, Dan Stevens, Luke Evans",
+            "classificacao": 10,
+            "sinopse": "Bela, moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade dele.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "Corra",
+            "direcao": "Jordan Peele",
+            "elenco": "Daniel Kaluuya, Allison Williams, Catherine Keener",
+            "classificacao": 14,
+            "sinopse": "Chris é um jovem fotógrafo negro que está prestes a conhecer os pais de Rose, sua namorada caucasiana.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "Como eu era antes de você",
+            "direcao": "Thea Sharrock",
+            "elenco": "Emilia Clarke, Sam Claflin, Janet McTeer",
+            "classificacao": 12,
+            "sinopse": "A peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Simplesmente acontece",
+            "direcao": "Christian Ditter",
+            "elenco": "Lily Collins, Sam Claflin, Christian Cooke",
+            "classificacao": 14,
+            "sinopse": "Alex e Rosie são amigos inseparáveis que cresceram juntos em Londres, compartilhando entre si suas melhores experiências.",
+            "ano de lancamento": 2014
+        },
+        {
+            "nome": "Sing - Quem canta seus males espanta",
+            "direcao": "Garth Jennings",
+            "elenco": "Matthew McConaughey, Mariana Ximenes, Reese Witherspoon",
+            "classificacao": "Livre",
+            "sinopse": "Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Corra",
+            "direcao": "Jordan Peele",
+            "elenco": "Daniel Kaluuya, Allison Williams, Catherine Keener",
+            "classificacao": 14,
+            "sinopse": "Chris é um jovem fotógrafo negro que está prestes a conhecer os pais de Rose, sua namorada caucasiana.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "A Bela e a Fera",
+            "direcao": "Bill Condon",
+            "elenco": "Emma Watson, Dan Stevens, Luke Evans",
+            "classificacao": 10,
+            "sinopse": "Bela, moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade dele.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "Divertida Mente",
+            "direcao": "Pete Docter",
+            "elenco": "Miá Mello, Amy Poehler, Otaviano Costa",
+            "classificacao": "Livre",
+            "sinopse": "Com a mudança para uma nova cidade, as emoções de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas.",
+            "ano de lancamento": 2015
+        }
+    ],
+    "melhores": [
+        {
+            "nome": "Corra",
+            "direcao": "Jordan Peele",
+            "elenco": "Daniel Kaluuya, Allison Williams, Catherine Keener",
+            "classificacao": 14,
+            "sinopse": "Chris é um jovem fotógrafo negro que está prestes a conhecer os pais de Rose, sua namorada caucasiana.",
+            "ano de lancamento": 2017
+        },
+        {
+            "nome": "A Bela e a Fera",
+            "direcao": "Bill Condon",
+            "elenco": "Emma Watson, Dan Stevens, Luke Evans",
+            "classificacao": 10,
+            "sinopse": "Bela, moradora de uma pequena aldeia francesa, Bela tem o pai capturado pela Fera e decide entregar sua vida ao estranho ser em troca da liberdade dele.",
+            "ano de lancamento": 2017
+        }
+    ],
+    "crush": [
+        {
+            "nome": "Como eu era antes de você",
+            "direcao": "Thea Sharrock",
+            "elenco": "Emilia Clarke, Sam Claflin, Janet McTeer",
+            "classificacao": 12,
+            "sinopse": "A peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Simplesmente acontece",
+            "direcao": "Christian Ditter",
+            "elenco": "Lily Collins, Sam Claflin, Christian Cooke",
+            "classificacao": 14,
+            "sinopse": "Alex e Rosie são amigos inseparáveis que cresceram juntos em Londres, compartilhando entre si suas melhores experiências.",
+            "ano de lancamento": 2014
+        }
+    ],
+    "kids": [
+        {
+            "nome": "Sing - Quem canta seus males espanta",
+            "direcao": "Garth Jennings",
+            "elenco": "Matthew McConaughey, Mariana Ximenes, Reese Witherspoon",
+            "classificacao": "Livre",
+            "sinopse": "Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro.",
+            "ano de lancamento": 2016
+        },
+        {
+            "nome": "Divertida Mente",
+            "direcao": "Pete Docter",
+            "elenco": "Miá Mello, Amy Poehler, Otaviano Costa",
+            "classificacao": "Livre",
+            "sinopse": "Com a mudança para uma nova cidade, as emoções de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas.",
+            "ano de lancamento": 2015
+        }
+    ]
+ }
